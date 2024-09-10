@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://your-blogspot-site.blogspot.com",
+      "destination": "https://bravelswe.blogspot.com/",
       "permanent": true
     }
   ]
